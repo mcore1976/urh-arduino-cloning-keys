@@ -7,7 +7,7 @@ Components :
 - 1 x FS1000A module ( frequency 433,92MHz for EU/Asia or 315MHz for US/Canada)
 - 1 x RTL-SDR dongle for PC to use with URH (Universal Radio Hacker) tool
 - 1 x powerbank 5V to power clonned keyfob
-- 1 x PC ( Linux / Windows / Mac)
+- 1 x PC ( Linux / Windows / Mac) for recording key transmission with URH ( https://github.com/jopohl/urh ) and RTL-SDR USB dongle 
 
 Connections :
 Connect Digispark to FS1000A module
