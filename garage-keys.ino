@@ -8,7 +8,7 @@
 #define  FS1000A_DATA_PIN    2
 
 void setup() {                
-  pinMode(FS1000A_DATA_PIN, OUTPUT);      // LED on Model A   
+  pinMode(FS1000A_DATA_PIN, OUTPUT);       
 }
 
 
