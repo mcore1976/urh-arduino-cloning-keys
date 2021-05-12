@@ -185,8 +185,8 @@ void sendhexdigit(char c , uint16_t  pulse)
 void loop() {
 
    // now the decoded pulse definition taken from Universal Radio Hacker tool and your keys
-  char sequence1[] = "aaaaa5";
-  char sequence2[] = "934d34d349249a4db69a49b69a4d26db6db69b4d269a6d369";
+  char sequence1[] = "XXXXXXX";
+  char sequence2[] = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
   uint16_t pulse = 371;   // pulse width is 372 microseconds in my case
   uint8_t i;
 
