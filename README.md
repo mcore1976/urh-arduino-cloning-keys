@@ -12,9 +12,11 @@ Components :
 Connections :
 Connect Digispark to FS1000A module
 - 5V Digispark <-> VCC FS1000A
-- P2 (PB2) Digispark <-) DATA FS1000A
+- P2 (PB2) Digispark <-> DATA FS1000A
 - GND Digispark <-> GND FS1000A
 - Connect some antenna 15cm to FS1000A antenna pin !
+
+You need to install Arduino environment and Digispark packages/libraries : https://digistump.com/wiki/digispark/tutorials/connecting
 
 See videos how to clone your key : https://www.youtube.com/watch?v=jziWQA8Wvp4
 
