@@ -1,5 +1,5 @@
 Example of cloning my garage keys with Arduino Digispark and FS1000A transmitter. 
-The keys sequences were recorded first using Universal Radio Hacker tool and relevant information about pulses  and puses copied to Arduino sketch. 
+The key sequences were recorded first using Universal Radio Hacker tool and relevant information about pulses  and pauses within the radio signal copied to Arduino sketch. 
 
 
 Components :
