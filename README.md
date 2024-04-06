@@ -16,7 +16,7 @@ Connect Digispark to FS1000A module
 - GND Digispark <-> GND FS1000A
 - Connect some antenna 15cm to FS1000A antenna pin !
 
-You need to install Arduino environment and Digispark packages/libraries : https://digistump.com/wiki/digispark/tutorials/connecting
+You need to install Arduino environment and Digispark packages/libraries : In ARDUINO IDE go to File/Preferences/Additional board manager URL and put this URL : https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json , then go to Menu Tools/Board and select Digistump AVR Boards / Digispark default 16.5 MHZ
 
 See videos how to clone your key : https://www.youtube.com/watch?v=jziWQA8Wvp4
 
